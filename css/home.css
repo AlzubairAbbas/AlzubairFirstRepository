@@ -114,7 +114,7 @@ main{
  min-height: 480px;
   background:
     linear-gradient(rgba(0,0,0,0.15), rgba(0,0,0,0.45)),
-    url('../Images/hero2.png') center/cover no-repeat;
+    url('../images/hero2.png') center/cover no-repeat;
     color: #ffffff;
     display: flex;
     justify-content: center;
